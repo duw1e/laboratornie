@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Страница-1" id="q52picztItKmI75BU02e">
+    <mxGraphModel dx="1414" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-mSaYOVr8FmQSe7LbCM_-1" parent="1" style="rounded=1;arcSize=50;whiteSpace=wrap;html=1;" value="Начало" vertex="1">
+          <mxGeometry height="40" width="160" x="350" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="-mSaYOVr8FmQSe7LbCM_-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="A = 300, X = 5, N = 133" vertex="1">
+          <mxGeometry height="50" width="200" x="330" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="-mSaYOVr8FmQSe7LbCM_-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="R = N - 75" vertex="1">
+          <mxGeometry height="50" width="200" x="330" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="-mSaYOVr8FmQSe7LbCM_-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="S = R * X" vertex="1">
+          <mxGeometry height="50" width="200" x="330" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="-mSaYOVr8FmQSe7LbCM_-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Y = A + S" vertex="1">
+          <mxGeometry height="50" width="200" x="330" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="-mSaYOVr8FmQSe7LbCM_-6" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Вывод: A, R, S, Y" vertex="1">
+          <mxGeometry height="50" width="220" x="320" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="-mSaYOVr8FmQSe7LbCM_-7" parent="1" style="rounded=1;arcSize=50;whiteSpace=wrap;html=1;" value="Конец" vertex="1">
+          <mxGeometry height="40" width="160" x="350" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="-mSaYOVr8FmQSe7LbCM_-8" edge="1" parent="1" source="-mSaYOVr8FmQSe7LbCM_-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=classic;" target="-mSaYOVr8FmQSe7LbCM_-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-mSaYOVr8FmQSe7LbCM_-9" edge="1" parent="1" source="-mSaYOVr8FmQSe7LbCM_-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=classic;" target="-mSaYOVr8FmQSe7LbCM_-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-mSaYOVr8FmQSe7LbCM_-10" edge="1" parent="1" source="-mSaYOVr8FmQSe7LbCM_-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=classic;" target="-mSaYOVr8FmQSe7LbCM_-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-mSaYOVr8FmQSe7LbCM_-11" edge="1" parent="1" source="-mSaYOVr8FmQSe7LbCM_-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=classic;" target="-mSaYOVr8FmQSe7LbCM_-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-mSaYOVr8FmQSe7LbCM_-12" edge="1" parent="1" source="-mSaYOVr8FmQSe7LbCM_-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=classic;" target="-mSaYOVr8FmQSe7LbCM_-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-mSaYOVr8FmQSe7LbCM_-13" edge="1" parent="1" source="-mSaYOVr8FmQSe7LbCM_-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=classic;" target="-mSaYOVr8FmQSe7LbCM_-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
