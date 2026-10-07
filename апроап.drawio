@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Страница-1" id="q52picztItKmI75BU02e">
+    <mxGraphModel dx="1414" dy="-380" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DLAjgd67l7BmfDEWI-gd-23" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Начало" vertex="1">
+          <mxGeometry height="50" width="120" x="340" y="1350" as="geometry" />
+        </mxCell>
+        <mxCell id="DLAjgd67l7BmfDEWI-gd-24" parent="1" style="parallelogram;whiteSpace=wrap;html=1;" value="Ввод U (напряжение)" vertex="1">
+          <mxGeometry height="50" width="180" x="310" y="1440" as="geometry" />
+        </mxCell>
+        <mxCell id="DLAjgd67l7BmfDEWI-gd-25" parent="1" style="parallelogram;whiteSpace=wrap;html=1;" value="Ввод R (сопротивление)" vertex="1">
+          <mxGeometry height="50" width="180" x="310" y="1520" as="geometry" />
+        </mxCell>
+        <mxCell id="DLAjgd67l7BmfDEWI-gd-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="I = U / R" vertex="1">
+          <mxGeometry height="50" width="140" x="330" y="1600" as="geometry" />
+        </mxCell>
+        <mxCell id="DLAjgd67l7BmfDEWI-gd-27" parent="1" style="parallelogram;whiteSpace=wrap;html=1;" value="Вывод I" vertex="1">
+          <mxGeometry height="50" width="140" x="330" y="1680" as="geometry" />
+        </mxCell>
+        <mxCell id="DLAjgd67l7BmfDEWI-gd-28" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Конец" vertex="1">
+          <mxGeometry height="50" width="120" x="340" y="1760" as="geometry" />
+        </mxCell>
+        <mxCell id="DLAjgd67l7BmfDEWI-gd-29" edge="1" parent="1" source="DLAjgd67l7BmfDEWI-gd-23" style="edgeStyle=orthogonalEdgeStyle;html=1;rounded=0;" target="DLAjgd67l7BmfDEWI-gd-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DLAjgd67l7BmfDEWI-gd-30" edge="1" parent="1" source="DLAjgd67l7BmfDEWI-gd-24" style="edgeStyle=orthogonalEdgeStyle;html=1;rounded=0;" target="DLAjgd67l7BmfDEWI-gd-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DLAjgd67l7BmfDEWI-gd-31" edge="1" parent="1" source="DLAjgd67l7BmfDEWI-gd-25" style="edgeStyle=orthogonalEdgeStyle;html=1;rounded=0;" target="DLAjgd67l7BmfDEWI-gd-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DLAjgd67l7BmfDEWI-gd-32" edge="1" parent="1" source="DLAjgd67l7BmfDEWI-gd-26" style="edgeStyle=orthogonalEdgeStyle;html=1;rounded=0;" target="DLAjgd67l7BmfDEWI-gd-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DLAjgd67l7BmfDEWI-gd-33" edge="1" parent="1" source="DLAjgd67l7BmfDEWI-gd-27" style="edgeStyle=orthogonalEdgeStyle;html=1;rounded=0;" target="DLAjgd67l7BmfDEWI-gd-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
